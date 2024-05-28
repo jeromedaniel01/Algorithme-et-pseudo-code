@@ -1,0 +1,10 @@
+jerome@debian12:~$ python
+Python 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> total_money = 12.47
+>>> price_per_bonbon = 1.14
+>>> 
+>>> nombre_de_bonbons = total_money // price_per_bonbon
+>>> nombre_de_bonbons
+10.0
+>>> 
